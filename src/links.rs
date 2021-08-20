@@ -1,5 +1,3 @@
-mod code;
-
 // ? Divide and conquer:
 // ? https://leetcode.com/problems/count-of-range-sum/discuss/1378661/rust-divide-and-conquer-using-prefix-sum?
 
@@ -13,6 +11,7 @@ mod code;
 // ? https://leetcode.com/problems/domino-and-tromino-tiling/discuss/1390413/rust-dp-with-detailed-recursive-relation
 // ? https://leetcode.com/problems/ugly-number-ii/discuss/1348535/Rust-dp
 // ? https://leetcode.com/problems/super-ugly-number/discuss/1349583/Rust-dp?
+// ? https://leetcode.com/problems/longest-valid-parentheses/discuss/1415072/Rust-DP
 
 // ? Math:
 // ? https://leetcode.com/problems/smallest-good-base/discuss/1392797/rust-logn-using-math?
