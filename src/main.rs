@@ -1,3 +1,5 @@
+pub mod links;
+
 fn main() {
     // playground
 

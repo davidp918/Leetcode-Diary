@@ -35,6 +35,14 @@
 // ? https://leetcode.com/problems/word-ladder/discuss/1418892/Rust-BFS
 // ? https://leetcode.com/problems/word-ladder/discuss/1418892/Rust-BFS-and-Python-Bidirectional-Search
 // ? https://leetcode.com/problems/trapping-rain-water-ii/discuss/1423470/Python-BFS-using-Binary-Heap
+// ? https://leetcode.com/problems/word-ladder-ii/discuss/1427187/Python-Bi-directional-BFS-with-backtracking
 
 // ! DFS:
 // ? https://leetcode.com/problems/swim-in-rising-water/discuss/1420956/Python-Typical-DFS
+
+// ! Stack:
+// ? https://leetcode.com/problems/largest-rectangle-in-histogram/discuss/1429115/Python-Elegant-Stack-Solution
+// ? https://leetcode.com/problems/maximal-rectangle/discuss/1434675/python-based-on-largest-rectangle-in-histogram
+
+// ! Backtrack:
+// ? https://leetcode.com/problems/n-queens/discuss/1438063/Python-Backtracking-Optimized-Using-Simple-Geometry

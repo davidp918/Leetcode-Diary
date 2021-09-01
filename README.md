@@ -1,5 +1,3 @@
-# Leetcode in Rust
+# Leetcode in Rust/Python
 
-The links to detailed explanations are located in mod.rs.
-
-Files in code folder is not complete.
+Questions are classified in topics located in src/links.rs
