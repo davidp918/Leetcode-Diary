@@ -46,3 +46,6 @@
 
 // ! Backtrack:
 // ? https://leetcode.com/problems/n-queens/discuss/1438063/Python-Backtracking-Optimized-Using-Simple-Geometry
+
+// ! Hashmap:
+// ? https://leetcode.com/problems/grid-illumination/discuss/1440709/Python-Similar-To-N-Queens
